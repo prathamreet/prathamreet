@@ -68,20 +68,12 @@
   <img align="right" alt="coding" width="200" height="200" src="https://i.pinimg.com/564x/ae/d3/45/aed3457be2371282d090e7896669ee63.jpg">
 </a>
 
-###
-
-
-
 <p align="left">🔭 I’m currently working on Frontend Tutorial Projects<br><br>🌱 I’m currently learning JavaScript<br><br>👨‍💻 All of my projects are available at https://github.com/prathamreet<br><br>📫 Discord = @electrozues</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="1080" align="center"/>
 
-##
 
-![Metrics](https://metrics.lecoq.io/prathamreet?template=classic&lines=1&habits=1&people=1&code=1&fortune=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=24&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&code=false&code.lines=12&code.load=400&code.days=3&code.visibility=public&fortune=false&config.timezone=Asia%2FCalcutta&config.twemoji=true&config.display=large)
-
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathamreet&label=Profile%20views&color=0e75b6&style=flat" alt="prathamreet" /> </p>
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=10&section=footer" width="1080" align="center"/>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=prathamreet&label=Profile%20views&color=0e75b6&style=flat" alt="prathamreet" /> </p>
