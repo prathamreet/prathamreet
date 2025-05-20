@@ -6,7 +6,8 @@
   </a>
 </div>
 
-<img src="./assets/snakedark.svg" alt="Snake animation" width="1000"  />
+<!-- <img src="./assets/snakedark.svg" alt="Snake animation" width="1000"  />    -->
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prathamreet/prathamreet/output/github-contribution-grid-snake.svg" />
 
 [![Pratham Reet's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=prathamreet&custom_title=‎&hide_border=true&theme=github-compact)](https://github.com/prathamreet/github-readme-activity-graph)
 
