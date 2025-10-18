@@ -1,10 +1,10 @@
 ﻿﻿<img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=10&section=header" width="1080" align="center"/>
 
-<div align="center">
+<!-- <div align="center">
   <a href="https://prathamreet.netlify.app" target="_blank">
     <strong>Click to Visit My Portfolio</strong>
   </a>
-</div>
+</div> -->
 
 <!-- <img src="./assets/snakedark.svg" alt="Snake animation" width="1000"  />    -->
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/prathamreet/prathamreet/output/github-contribution-grid-snake-dark.svg" />
@@ -27,3 +27,4 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=gradient&height=10&section=footer" width="1080" align="center"/>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=prathamreet&label=Profile%20views&color=0e75b6&style=flat" alt="prathamreet" /> </p>
+
